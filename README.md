@@ -1,7 +1,7 @@
 
 Backend for socio app
 =========
-See frontend at [https://github.com/Tarsh333/News-App](https://github.com/Tarsh333/News-App)
+
 
 How to install and run
 ----------------------
